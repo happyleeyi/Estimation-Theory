@@ -1,3 +1,3 @@
 # Estimation Theory
 
-CRLB -> Linear Model -> Sufficient Statistics -> BLUE -> MLE
+CRLB -> Linear Model -> Sufficient Statistics -> BLUE -> MLE -> LSE
