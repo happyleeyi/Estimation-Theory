@@ -17,3 +17,7 @@ Exponential Family
 Bayesian Approach
 
 Multivariate Gaussian
+
+MAP
+
+LMMSE
