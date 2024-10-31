@@ -18,4 +18,6 @@ Bayesian Approach
 
 Multivariate Gaussian
 
+MAP
+
 LMMSE
