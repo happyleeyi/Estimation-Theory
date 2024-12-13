@@ -21,3 +21,21 @@ Multivariate Gaussian
 MAP
 
 LMMSE
+
+Squential LMMSE
+
+Bayesian Filtering
+
+Kalman Filter
+
+Alternate Kalman Filter
+
+Kalman Filter Generalization
+
+Optimal Smoothing
+
+Nonlinear Kalman Filtering
+
+Unscented Kalman Filtering
+
+Particle Filter
